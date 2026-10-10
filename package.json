@@ -1,0 +1,24 @@
+{
+  "name": "fake-product-identification-using-blockchain",
+  "version": "1.0.0",
+  "description": "Fake Product Identification by QR Code Using Blockchain Project with Source Code, Documents and Youtube Video Implementation",
+  "main": "truffle-config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vatshayan/Fake-Product-Identification-Using-Blockchain.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Vatshayan/Fake-Product-Identification-Using-Blockchain/issues"
+  },
+  "homepage": "https://github.com/Vatshayan/Fake-Product-Identification-Using-Blockchain#readme",
+  "dependencies": {
+    "web3": "^4.16.0"
+  }
+}
